@@ -1,0 +1,1 @@
+Script desarrollado en PHP para monitorear el acceso a nuestras "landing pages" desde nuestros anuncios en Adwords,Facebook y practicamente cualquier plataforma de publicidad.
